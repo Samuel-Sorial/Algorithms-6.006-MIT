@@ -7,3 +7,10 @@ Problem 1-2:
 a- n
 b- n*logn
 c- n
+
+
+Problem 1-3:
+a- Yes
+b- Yes
+c- No
+d- Yes
