@@ -14,3 +14,9 @@ a- Yes
 b- Yes
 c- No
 d- Yes
+
+Problem 1-4: 
+a- nlogn
+b- n^2
+c- n 
+d- n
